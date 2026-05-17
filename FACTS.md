@@ -95,7 +95,7 @@ favourite?.length
 if (favoriteActor != null)
 ```
 
-![[images/Pasted image 20260506105009.png]]
+![images/Pasted image 20260506105009.png]
 
 ![[images/Pasted image 20260506105104.png]]
 
