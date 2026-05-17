@@ -94,6 +94,7 @@ favourite?.length
 ``` kotlin
 if (favoriteActor != null)
 ```
+<<<<<<< HEAD
 
 ![[1.png]]
 
@@ -107,6 +108,14 @@ if (favoriteActor != null)
 ![[5.png]]
 
 ![[6.png]]
+=======
+![](images/Pasted image 20260506105009.png)
+![](images/Pasted image 20260506105104.png)
+![](images/Pasted image 20260506105134.png)
+![](images/Pasted image 20260506105150.png)
+![](images/Pasted image 20260506105207.png)
+![](images/Pasted image 20260506105223.png)
+>>>>>>> 5993f3bf32a5083d60b4fb973fb11074d6246b63
 
 
 # ELVIS fxn
@@ -142,4 +151,8 @@ fun whatisyourname (name : String )
 
 ![[9.png]]
 
+<<<<<<< HEAD
 ![[10.png]]
+=======
+![[Pasted image 20260506110551.png]]
+>>>>>>> 5993f3bf32a5083d60b4fb973fb11074d6246b63
