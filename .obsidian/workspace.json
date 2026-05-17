@@ -39,12 +39,14 @@
             "id": "6291a3520a4e5cb8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/10.png"
+                "file": "FACTS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "10"
+              "icon": "lucide-file",
+              "title": "FACTS"
             }
           },
           {
@@ -227,6 +229,7 @@
   },
   "active": "6291a3520a4e5cb8",
   "lastOpenFiles": [
+    "images/10.png",
     "images/9.png",
     "images/8.png",
     "images/7.png",
@@ -242,7 +245,6 @@
     "BY.md",
     "ASK.md",
     "SPREASD/week1.md",
-    "images/10.png",
     "images",
     "random things.md",
     "Scope functions.md",
