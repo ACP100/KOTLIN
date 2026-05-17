@@ -95,18 +95,18 @@ favourite?.length
 if (favoriteActor != null)
 ```
 
-![[Pasted image 20260506105009.png]]
+![[1.png]]
 
-![[Pasted image 20260506105104.png]]
+![[2.png]]
 
-![[Pasted image 20260506105134.png]]
+![[3.png]]
 
-![[Pasted image 20260506105150.png]]
+![[4.png]]
 
 
-![[Pasted image 20260506105207.png]]
+![[5.png]]
 
-![[Pasted image 20260506105223.png]]
+![[6.png]]
 
 
 # ELVIS fxn
@@ -137,9 +137,9 @@ fun whatisyourname (name : String )
 ```
 
 
-![[Pasted image 20260506110212.png]]
-![[Pasted image 20260506110230.png]]
+![[7.png]]
+![[8.png]]
 
-![[Pasted image 20260506110255.png]]
+![[9.png]]
 
-![[Pasted image 20260506110551.png]]
+![[10.png]]
