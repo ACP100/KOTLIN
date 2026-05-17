@@ -95,18 +95,18 @@ favourite?.length
 if (favoriteActor != null)
 ```
 
-![[Pasted image 20260506105009.png]]
+![[images/Pasted image 20260506105009.png]]
 
-![[Pasted image 20260506105104.png]]
+![[images/Pasted image 20260506105104.png]]
 
-![[Pasted image 20260506105134.png]]
+![[images/Pasted image 20260506105134.png]]
 
-![[Pasted image 20260506105150.png]]
+![[images/Pasted image 20260506105150.png]]
 
 
-![[Pasted image 20260506105207.png]]
+![[images/Pasted image 20260506105207.png]]
 
-![[Pasted image 20260506105223.png]]
+![[images/Pasted image 20260506105223.png]]
 
 
 # ELVIS fxn
