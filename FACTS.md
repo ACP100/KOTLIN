@@ -95,7 +95,7 @@ favourite?.length
 if (favoriteActor != null)
 ```
 
-![[1.png]]
+![](images/1.png)
 
 ![[2.png]]
 
